@@ -1,0 +1,25 @@
+#w {
+    background: linear-gradient(red, yellow, blue, green);
+}
+body{
+    text-align:center;
+     background-color:black;
+}
+img{
+    border-radius:20%;
+    width:500px;
+}
+h1{
+    font-size:100px
+}
+.line{
+    width:400px;
+    color: black;
+    
+}
+p{
+    font-size:30px
+}
+#h {
+    background-color:coral;
+}
